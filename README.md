@@ -148,7 +148,7 @@ dotnet run
 ## Скриншоты
 
 Главная страница проекта
-<img width="1747" height="1088" alt="image" src="https://github.com/user-attachments/assets/ddabffe6-8c63-40e6-8a86-2e2226a14b18" />
+<img width="1826" height="1075" alt="image" src="https://github.com/user-attachments/assets/5d1b0436-241e-4a1c-b326-c43de96a2939" />
 
 Список товаров
 <img width="1949" height="809" alt="image" src="https://github.com/user-attachments/assets/c7d98e87-96a8-497c-9a3f-b92179451ecf" />
