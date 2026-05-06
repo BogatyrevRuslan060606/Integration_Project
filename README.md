@@ -147,7 +147,63 @@ dotnet run
 
 ## Скриншоты
 
-Скриншоты интерфейса приложения доступны в папке `screenshots/`.
+Главная страница проекта
+<img width="1747" height="1088" alt="image" src="https://github.com/user-attachments/assets/ddabffe6-8c63-40e6-8a86-2e2226a14b18" />
+
+Список товаров
+<img width="1949" height="809" alt="image" src="https://github.com/user-attachments/assets/c7d98e87-96a8-497c-9a3f-b92179451ecf" />
+
+Карточка товара
+<img width="1973" height="1004" alt="image" src="https://github.com/user-attachments/assets/86e3a903-a21d-4b01-b83a-134d7832c8a9" />
+
+Список заказа кодов
+<img width="2004" height="656" alt="image" src="https://github.com/user-attachments/assets/20122345-d921-4a9c-8d5b-8b21a3821ae7" />
+
+Создание заказа кодов
+<img width="1950" height="850" alt="image" src="https://github.com/user-attachments/assets/291881e2-8f80-4f38-8386-95b123ff8dcd" />
+
+Созданный черновик заказа кодов в списке заказов кодов
+<img width="1512" height="392" alt="image" src="https://github.com/user-attachments/assets/0259fc6a-b09c-4d0c-b30b-a2ca36716806" />
+
+Черновик заказа
+<img width="1943" height="1046" alt="image" src="https://github.com/user-attachments/assets/834bbe29-4bdc-4fc6-9066-88edc5c85731" />
+
+Отправка заказа в систему Track&Trace
+<img width="1974" height="503" alt="image" src="https://github.com/user-attachments/assets/1e6675e7-9114-4a04-85e7-6cef343944f3" />
+
+Получение кодов 
+<img width="1603" height="1005" alt="image" src="https://github.com/user-attachments/assets/c9070cf3-4e28-41d6-8dab-112a42b9bb62" />
+
+Список полученных кодов
+<img width="1753" height="902" alt="image" src="https://github.com/user-attachments/assets/4b4169f4-af94-4bd3-983e-23b6633e0d72" />
+
+Подтверждение получения кодов
+<img width="1708" height="1103" alt="image" src="https://github.com/user-attachments/assets/ccc6a50c-5acb-4488-9a47-c402c2a896be" />
+
+Просмотр списка кодов
+<img width="2136" height="1149" alt="image" src="https://github.com/user-attachments/assets/e74553f2-ebb7-44a7-9813-403c9e5c05a2" />
+
+Выполнение операций с кодами
+<img width="2271" height="884" alt="image" src="https://github.com/user-attachments/assets/b4df008b-b420-43be-9143-65e6de21653f" />
+
+Просмотр списка отчетов о нанесении
+<img width="2062" height="627" alt="image" src="https://github.com/user-attachments/assets/ca27b2bd-efa9-46c0-bb11-e627a5f596e2" />
+
+Основные параметры отчета о нанесении
+<img width="2091" height="775" alt="image" src="https://github.com/user-attachments/assets/39b6eaef-228e-4954-8aba-8ca252bcbb84" />
+
+Перечень кодов из отчета о нанесении
+<img width="2179" height="592" alt="image" src="https://github.com/user-attachments/assets/13f1633c-04c7-46fa-9ea5-a77467048ece" />
+
+Создание черновика отчета о нанесении
+<img width="2287" height="805" alt="image" src="https://github.com/user-attachments/assets/600b6504-c3a7-43c7-95db-98ccbaf763fa" />
+
+Страница с настройками подключения к системе Track&Trace
+<img width="2097" height="1002" alt="image" src="https://github.com/user-attachments/assets/e8c6f80a-fe86-42fc-9726-7e8249e21488" />
+
+Страница со Swagger UI
+<img width="1916" height="1178" alt="image" src="https://github.com/user-attachments/assets/f8f25880-8322-4ede-ae93-c7886dfaeb00" />
+
 
 ## Документация
 
